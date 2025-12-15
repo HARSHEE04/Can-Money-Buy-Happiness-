@@ -99,16 +99,5 @@ pip install pandas plotly dash dash-bootstrap-components kaggle kagglehub
 - Build **filter-based interactivity** for continent or year-based exploration.  
 - Deploy a **public-hosted version** using Heroku or Render for live demos.
 
----
-
-## 📚 Resources & References  
-- **Dataset:** [Kaggle – World Happiness Report 2024](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated/data)  
-- **Documentation:**  
-  - [Plotly Python Graphing Library](https://plotly.com/python/)  
-  - [Dash by Plotly](https://dash.plotly.com/)  
-  - [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)  
-- **Tutorials:** [YouTube – Dash App Development Tutorial](https://www.youtube.com/watch?v=hSPmj7mK6ng)
 
 
-
-Would you like me to add GitHub badges (for Python, Plotly, or license type) and a project preview image at the top for a more polished presentation?
